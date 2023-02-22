@@ -1,4 +1,4 @@
-Node {
+node {
     agent {
         docker {
             image 'node:16-buster-slim' 
